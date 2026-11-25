@@ -1,0 +1,11 @@
+﻿archivo,ruta_original,animal,confianza,bbox_x1,bbox_y1,bbox_x2,bbox_y2
+arbol.jpeg,arbol.jpeg,no hay animales,,,,,
+carro.jpeg,carro.jpeg,no hay animales,,,,,
+casa.jpeg,casa.jpeg,no hay animales,,,,,
+chimuelo.jpeg,chimuelo.jpeg,bear,0.6506,198.8,77.3,552.6,552.9
+gato.jpeg,gato.jpeg,cat,0.6395,230.4,47.0,625.8,443.7
+i.n.jpeg,i.n.jpeg,no hay animales,,,,,
+leon.jpeg,leon.jpeg,no hay animales,,,,,
+panda.jpeg,panda.jpeg,no hay animales,,,,,
+pepa.jpeg,pepa.jpeg,no hay animales,,,,,
+pollito.jpeg,pollito.jpeg,bird,0.9041,111.1,47.6,461.6,363.2
